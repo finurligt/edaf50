@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../liblab1/coding.h
+
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/liblab1/coding.cc
+coding.h
+-
+
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/liblab1/list.cc
+iostream
+-
+list.h
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/liblab1/list.h
+
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/liblab1/list.h
+

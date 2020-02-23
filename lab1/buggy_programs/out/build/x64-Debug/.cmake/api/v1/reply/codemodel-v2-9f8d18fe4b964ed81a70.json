@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sanitizers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bounds::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bounds-Debug-f5633c3a4fddbdbabb43.json",
+					"name" : "bounds",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bounds-heap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bounds-heap-Debug-f9e3d609e81e86b66670.json",
+					"name" : "bounds-heap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dangling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dangling-Debug-1a136dd71039c828bd5f.json",
+					"name" : "dangling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leak::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leak-Debug-fd0053777a46e37823df.json",
+					"name" : "leak",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum-Debug-ac8eecaaff530dbac5a5.json",
+					"name" : "sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum_alt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum_alt-Debug-3e163766788b883d1a7b.json",
+					"name" : "sum_alt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ub-Debug-03c44fcd1a8e1ab3cad2.json",
+					"name" : "ub",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug",
+		"source" : "C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

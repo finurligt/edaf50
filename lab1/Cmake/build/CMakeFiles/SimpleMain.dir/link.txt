@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SimpleMain.dir/ltest.cc.o  -o SimpleMain liblab1/libLibLab1.a 

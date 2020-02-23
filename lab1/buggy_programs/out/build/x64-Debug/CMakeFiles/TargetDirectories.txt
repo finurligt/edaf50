@@ -1,0 +1,9 @@
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/ub.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/leak.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/bounds.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/sum.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/bounds-heap.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/dangling.dir
+C:/Users/fabia/Documents/EDAF50_C++/lab1/buggy_programs/out/build/x64-Debug/CMakeFiles/sum_alt.dir

@@ -1,0 +1,6 @@
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/build/CMakeFiles/SimpleMain.dir
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/build/liblab1/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/build/liblab1/CMakeFiles/LibLab1.dir
+/mnt/c/Users/fabia/Documents/EDAF50_C++/lab1/Cmake/build/liblab1/CMakeFiles/edit_cache.dir
