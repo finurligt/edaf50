@@ -1,3 +1,0 @@
-C:/Users/fabia/Documents/EDAF50_C++/lab1/liblab1/out/build/x64-Debug/CMakeFiles/LibLab1.dir
-C:/Users/fabia/Documents/EDAF50_C++/lab1/liblab1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/fabia/Documents/EDAF50_C++/lab1/liblab1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -98,7 +98,7 @@ int cost(std::string& p, const std::string& q) {
     for (int i = 1;i < p.length()+1;i++) {
         for (int j = 1; j < q.length()+1;j++) {
             int same;
-            if (p[i] == q[j]) {
+            if (p[i-1] == q[j-1]) {
                 same = d[i - 1][j - 1];
             }
             else {
@@ -138,6 +138,9 @@ void Dictionary::rank_suggestions(std::vector<std::string>& suggestions, const s
     suggestions.clear();
     for (auto sugg: ranking) {
         suggestions.push_back(sugg.second);
+        //if (sugg.first < 3) {
+        //    std::cout << sugg.first << " " << sugg.second << std::endl;
+        //}
     }
 }
 
